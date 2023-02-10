@@ -1,0 +1,6 @@
+run = ["bash", "main.sh"]
+language = "go"
+entrypoint = "README.md"
+
+[nix]
+channel = "stable-22_11"

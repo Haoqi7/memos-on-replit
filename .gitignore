@@ -1,0 +1,23 @@
+# Air (hot reload) generated
+.air
+
+# temp folder
+tmp
+
+# Frontend asset
+web
+
+# build folder
+build
+
+.DS_Store
+
+# Jetbrains
+.idea
+
+# vscode
+.vscode
+
+bin/air
+
+
